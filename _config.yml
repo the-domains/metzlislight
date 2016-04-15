@@ -1,0 +1,28 @@
+name: "Metzli's Light"
+favicon: null
+layout_spectrum: 0.32082548388279974
+typography_spectrum: 0.504165512509644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9198098303750157
+  lightness: 0.1291778350714594
+  saturation: 0.10972268762998283
+  rhythmicContrast: 0.11934164306148887
+purpose: []
